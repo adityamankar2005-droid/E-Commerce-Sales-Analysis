@@ -81,7 +81,7 @@ Sales by product category
 Interactive slicers for category and ship mode
 
 📸 Dashboard Preview:
-(See images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 🔍 Key Insights
 
